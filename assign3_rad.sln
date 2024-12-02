@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "assign3_rad", "assign3_rad.csproj", "{167F63CE-E086-412B-B1F0-9F819C439BFF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{167F63CE-E086-412B-B1F0-9F819C439BFF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{167F63CE-E086-412B-B1F0-9F819C439BFF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{167F63CE-E086-412B-B1F0-9F819C439BFF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{167F63CE-E086-412B-B1F0-9F819C439BFF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {28D3CFF8-C3DF-4668-93A3-802C554AA5A5}
+	EndGlobalSection
+EndGlobal
